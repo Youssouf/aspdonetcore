@@ -1,2 +1,2 @@
 # aspdonetcore
-asp.net core services
+ This is a new asp.net core  WCF services
